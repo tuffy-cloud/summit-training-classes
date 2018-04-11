@@ -1,4 +1,4 @@
 ---
 applications:
-- name: basics-workshop
+- name: zero-to-hero
   buildpack: staticfile_buildpack
