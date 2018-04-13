@@ -16,7 +16,7 @@ resources:
 - name: summit-training-classes
   type: git
   source:
-    uri: https://github.com/cloudfoundry/summit-training-classes.git
+    uri: https://github.com/EngineerBetter/summit-training-classes.git
     branch: master
 - name: cf
   type: cf
