@@ -1,0 +1,7 @@
+---
+applications:
+- name: basics-workshop
+  buildpack: staticfile_buildpack
+  routes:
+  - route: zero-to-hero.cfapps.io
+  - route: zero-to-hero.engineerbetter.com
