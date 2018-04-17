@@ -9,7 +9,7 @@ jobs:
     file: summit-training-classes/basics/ci/build.yml
   - put: cf
     params:
-      manifest: summit-training-classes/basics/ci/manifest.yml
+      manifest: summit-training-classes/basics/ci/manifest-eb-prod.yml
       path: built/
 
 resources:
